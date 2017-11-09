@@ -1,0 +1,1 @@
+INSERT INTO Cinemas ('name', 'city', 'address', 'phone') VALUES ('Мираж на Большом','СПб','Большой пр. П.С., д. 35А','+78126776060');

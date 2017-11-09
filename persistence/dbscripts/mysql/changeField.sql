@@ -1,0 +1,1 @@
+ALTER TABLE Cinemas CHANGE id_cinema id_cinema VARCHAR
