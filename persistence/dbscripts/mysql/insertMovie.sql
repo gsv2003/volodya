@@ -1,1 +1,1 @@
-INSERT INTO Movies ('born', 'country', 'genre', 'name', 'duration', 'rating') VALUES ('2017','США','ужасы','Оно', '135', '0.0');
+INSERT INTO Movies (born, country, genre, name, duration, rating) VALUES ('2017','США','ужасы','Оно', '135', '0.0');
